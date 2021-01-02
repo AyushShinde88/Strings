@@ -2,7 +2,7 @@
 
 #Hi guys✌✌✌
 
-Here is Ayush Shinde(@AyushShinde88) submitting another assignment on strings in JAVA to khushboo Sawant Mem(@KhushbooSawant)
+Here is Ayush Shinde submitting another assignment on strings in JAVA to khushboo Sawant Mem.
 
 Here are some of my detail.
 i) Name : Ayush Shinde
