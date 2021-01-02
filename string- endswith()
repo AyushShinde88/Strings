@@ -1,0 +1,8 @@
+public class Main { 
+public static void main(String[] args) { 
+String s = "ThisIsAyushString"; 
+System.out.println(s.endsWith("Ayu")); 
+System.out.println(s.endsWith("ring")); 
+System.out.println(s.endsWith("z")); 
+} 
+}
